@@ -1,7 +1,7 @@
-//IN Terminal: 
-//g++ (filename).cpp -o (filename)
-//./(filename)
-
-//Example: For Merge Sort file- File name- merge.cpp
-//Terminal- g++ merge.cpp -o merge
-//Terminal- ./merge
+IN Terminal: <br>
+g++ (filename).cpp -o (filename)  <br>
+./(filename)  <br>
+ <br>
+Example: For Merge Sort file- File name- merge.cpp  <br>
+Terminal- g++ merge.cpp -o merge  <br>
+Terminal- ./merge  <br>
